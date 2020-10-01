@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome" ,
+            "request": "launch",
+            "name": "Open view.html",
+            "file": "/Users/plino/Documents/Projects/Av1 Dev APP Web/public/view.html"
+        },
+        {
+            "type": "pwa-chrome" ,
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "/Users/plino/Documents/Projects/Av1 Dev APP Web/public/index.html"
+        }
+    ]
+}
